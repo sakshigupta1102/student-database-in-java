@@ -10,7 +10,7 @@ public class Studentdatabaseapp {
 		stu.enroll();
 		stu.paybalane();
 		stu.showinfo();
-		
+		//no of objects
 		System.out.println("enter no. of students thyat want to enroll");
 		Scanner in= new Scanner(System.in);
 		int no=in.nextInt();
